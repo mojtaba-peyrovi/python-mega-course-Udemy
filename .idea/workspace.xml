@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a853348c-223b-43f5-b302-46170d57eff0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/project 5 Python-dealing-with-databases/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project 5 Python-dealing-with-databases/sqliteConn.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project 6 (OOP)/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../tutorials/[FreeTutorials.Us] Udemy - docker-mastery/my-docker-walkthrough/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../tutorials/[FreeTutorials.Us] Udemy - docker-mastery/my-docker-walkthrough/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,13 +17,13 @@
     <SUITE FILE_PATH="coverage/python_mega_course_Udemy$Unnamed.coverage" NAME="my-interpreter Coverage Results" MODIFIED="1549939903154" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/project 5 Python-dealing-with-databases/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="340">
-                <caret line="20" selection-start-line="20" selection-end-line="20" />
+              <first_editor>
+                <caret selection-end-line="25" />
               </first_editor>
               <second_editor />
             </state>
@@ -31,10 +31,13 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/project 5 Python-dealing-with-databases/sqliteConn.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="14" lean-forward="true" selection-start-column="14" selection-end-column="14" />
+        <entry file="file://$PROJECT_DIR$/project 6 (OOP)/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="591">
+                <caret line="89" column="2" selection-start-line="89" selection-start-column="2" selection-end-line="89" selection-end-column="2" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -47,12 +50,13 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/project 5 Python-dealing-with-databases/README.md" />
         <option value="$PROJECT_DIR$/project 5 Python-dealing-with-databases/sqliteConn.py" />
+        <option value="$PROJECT_DIR$/project 5 Python-dealing-with-databases/README.md" />
+        <option value="$PROJECT_DIR$/project 6 (OOP)/README.md" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="192" />
     <option name="y" value="57" />
     <option name="width" value="1554" />
@@ -76,6 +80,11 @@
               <item name="python-mega-course-Udemy" type="b2602c69:ProjectViewProjectNode" />
               <item name="python-mega-course-Udemy" type="462c0819:PsiDirectoryNode" />
               <item name="project 5 Python-dealing-with-databases" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python-mega-course-Udemy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python-mega-course-Udemy" type="462c0819:PsiDirectoryNode" />
+              <item name="project 6 (OOP)" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -139,16 +148,18 @@
       <workItem from="1549937801589" duration="2699000" />
       <workItem from="1550133582538" duration="55000" />
       <workItem from="1550496349342" duration="1249000" />
+      <workItem from="1550497795642" duration="9645000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4003000" />
+    <option name="totallyTimeSpent" value="13648000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25637585" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25973153" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -175,20 +186,30 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/project 5 Python-dealing-with-databases/sqliteConn.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="14" selection-start-column="14" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/project 5 Python-dealing-with-databases/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="340">
-            <caret line="20" selection-start-line="20" selection-end-line="20" />
+          <first_editor>
+            <caret selection-end-line="25" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/project 5 Python-dealing-with-databases/sqliteConn.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="14" lean-forward="true" selection-start-column="14" selection-end-column="14" />
+    <entry file="file://$PROJECT_DIR$/project 6 (OOP)/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="591">
+            <caret line="89" column="2" selection-start-line="89" selection-start-column="2" selection-end-line="89" selection-end-column="2" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
