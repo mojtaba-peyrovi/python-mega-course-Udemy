@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a853348c-223b-43f5-b302-46170d57eff0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/project 7 python for image and viedo processing/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/python-mega-course-Udemy.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python-mega-course-Udemy.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project 7 python for image and viedo processing/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/project 7 python for image and viedo processing/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../tutorials/Udemy - Taming Big Data with Apache Spark and Python - Hands On!0/my-spark-walkthrough/part2-Spark-basics-and-simple-examples/Minimum-temperatures.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../tutorials/Udemy - Taming Big Data with Apache Spark and Python - Hands On!0/my-spark-walkthrough/part2-Spark-basics-and-simple-examples/Minimum-temperatures.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../tutorials/[FreeTutorials.Us] Udemy - docker-mastery/my-docker-walkthrough/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../tutorials/[FreeTutorials.Us] Udemy - docker-mastery/my-docker-walkthrough/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -25,8 +23,8 @@
         <entry file="file://$PROJECT_DIR$/project 7 python for image and viedo processing/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="442">
-                <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+              <first_editor relative-caret-position="527">
+                <caret line="31" column="116" selection-start-line="31" selection-start-column="116" selection-end-line="31" selection-end-column="116" />
               </first_editor>
               <second_editor />
             </state>
@@ -52,7 +50,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="191" />
     <option name="y" value="56" />
     <option name="width" value="1555" />
@@ -140,15 +138,15 @@
       <workItem from="1550133582538" duration="55000" />
       <workItem from="1550496349342" duration="1249000" />
       <workItem from="1550497795642" duration="27919000" />
-      <workItem from="1550660297523" duration="1671000" />
+      <workItem from="1550660297523" duration="1822000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33593000" />
+    <option name="totallyTimeSpent" value="33744000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26308724" />
@@ -246,8 +244,8 @@
     <entry file="file://$PROJECT_DIR$/project 7 python for image and viedo processing/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="442">
-            <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+          <first_editor relative-caret-position="527">
+            <caret line="31" column="116" selection-start-line="31" selection-start-column="116" selection-end-line="31" selection-end-column="116" />
           </first_editor>
           <second_editor />
         </state>

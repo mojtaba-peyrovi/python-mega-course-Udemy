@@ -24,3 +24,9 @@ In this file we import one of my photos and turned it to a gray-scaled photo bec
 
 When we print the rectangle with print(faces) it shows [106,  74, 188, 188] that means a rectangle tha starts from the top left corner, from [106,74] and makes a rectangle with the width of 188 and height of 188.
 
+__Video Capturing:__ When we want to use cv2 for video capturing, first we need to make an object called cv2.VideoCapture(). Inside the bracket, we can pass a video from hard-drive like this:
+```
+video = cv2.VideoCapture("movie.mp4")
+```
+
+if we are going to use external video, for example webcam, we use 0 or 1 or 2 depending on how many cameras we have.
