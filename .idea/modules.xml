@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/../../tutorials/[FreeTutorials.Us] Udemy - docker-mastery/my-docker-walkthrough/.idea/my-docker-walkthrough.iml" filepath="$PROJECT_DIR$/../../tutorials/[FreeTutorials.Us] Udemy - docker-mastery/my-docker-walkthrough/.idea/my-docker-walkthrough.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../tutorials/Udemy - Taming Big Data with Apache Spark and Python - Hands On!0/my-spark-walkthrough/.idea/my-spark-walkthrough.iml" filepath="$PROJECT_DIR$/../../tutorials/Udemy - Taming Big Data with Apache Spark and Python - Hands On!0/my-spark-walkthrough/.idea/my-spark-walkthrough.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/python-mega-course-Udemy.iml" filepath="$PROJECT_DIR$/.idea/python-mega-course-Udemy.iml" />
     </modules>
   </component>
