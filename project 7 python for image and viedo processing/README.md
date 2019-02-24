@@ -30,3 +30,8 @@ video = cv2.VideoCapture("movie.mp4")
 ```
 
 if we are going to use external video, for example webcam, we use 0 or 1 or 2 depending on how many cameras we have.
+
+__Difference Between map() and flatmap() functions:
+
+there is a one-to-one relationship between input and output of map() for example with map function we can make everything uppercase. Whereas in flatmap() the number of output can be different from the input, for example a text string can be split into words, so the output wouldn't be equal to the input.
+
