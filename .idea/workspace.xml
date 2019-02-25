@@ -3,9 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="a853348c-223b-43f5-b302-46170d57eff0" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project 7 python for image and viedo processing/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/project 7 python for image and viedo processing/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../tutorials/Udemy - Taming Big Data with Apache Spark and Python - Hands On!0/my-spark-walkthrough/part2-Spark-basics-and-simple-examples/Minimum-temperatures.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../tutorials/Udemy - Taming Big Data with Apache Spark and Python - Hands On!0/my-spark-walkthrough/part2-Spark-basics-and-simple-examples/Minimum-temperatures.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project 8 video processong openCV/motion-detection.py" beforeDir="false" afterPath="$PROJECT_DIR$/project 8 video processong openCV/motion-detection.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../tutorials/[FreeTutorials.Us] Udemy - docker-mastery/my-docker-walkthrough/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../tutorials/[FreeTutorials.Us] Udemy - docker-mastery/my-docker-walkthrough/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tutorials/[FreeTutorials.Us] Udemy - docker-mastery/my-docker-walkthrough/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../tutorials/[FreeTutorials.Us] Udemy - docker-mastery/my-docker-walkthrough/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,36 +19,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/project 7 python for image and viedo processing/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="629">
-                <caret line="37" selection-start-line="37" selection-end-line="37" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../../tutorials/[FreeTutorials.Us] Udemy - docker-mastery/my-docker-walkthrough/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="370">
-                <caret line="259" column="3" selection-start-line="259" selection-start-column="3" selection-end-line="259" selection-end-column="3" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/project 8 video processong openCV/README.md">
+        <entry file="file://$PROJECT_DIR$/project 9 bokeh visualization/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="391">
-                <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+              <first_editor relative-caret-position="561">
+                <caret line="33" column="1" selection-start-line="33" selection-start-column="1" selection-end-line="33" selection-end-column="1" />
               </first_editor>
               <second_editor />
             </state>
@@ -68,15 +44,19 @@
         <option value="$PROJECT_DIR$/project 6 (OOP)/README.md" />
         <option value="$PROJECT_DIR$/../../tutorials/Udemy - Taming Big Data with Apache Spark and Python - Hands On!0/my-spark-walkthrough/README.md" />
         <option value="$PROJECT_DIR$/../../tutorials/Udemy - Taming Big Data with Apache Spark and Python - Hands On!0/my-spark-walkthrough/part1-intro/ratings-counter.ipynb" />
-        <option value="$PROJECT_DIR$/../../tutorials/Udemy - Taming Big Data with Apache Spark and Python - Hands On!0/my-spark-walkthrough/part2-Spark-basics-and-simple-examples/README.md" />
         <option value="$PROJECT_DIR$/../../tutorials/Udemy - Taming Big Data with Apache Spark and Python - Hands On!0/2. Spark Basics and Simple Examples/6.1 min-temperatures.py.py" />
         <option value="$PROJECT_DIR$/project 7 python for image and viedo processing/README.md" />
         <option value="$PROJECT_DIR$/project 8 video processong openCV/README.md" />
+        <option value="$PROJECT_DIR$/../../tutorials/Udemy - Taming Big Data with Apache Spark and Python - Hands On!0/my-spark-walkthrough/part2-Spark-basics-and-simple-examples/word-count-better.py" />
+        <option value="$PROJECT_DIR$/../../tutorials/Udemy - Taming Big Data with Apache Spark and Python - Hands On!0/my-spark-walkthrough/part2-Spark-basics-and-simple-examples/README.md" />
+        <option value="$PROJECT_DIR$/../../tutorials/Udemy - Taming Big Data with Apache Spark and Python - Hands On!0/my-spark-walkthrough/part3-advanced-examples-of-spark-programs/README.md" />
+        <option value="$PROJECT_DIR$/../../tutorials/[FreeTutorials.Us] Udemy - docker-mastery/my-docker-walkthrough/README.md" />
+        <option value="$PROJECT_DIR$/project 9 bokeh visualization/README.md" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="372" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="370" />
     <option name="width" value="1555" />
     <option name="height" value="840" />
   </component>
@@ -96,7 +76,7 @@
             <path>
               <item name="python-mega-course-Udemy" type="b2602c69:ProjectViewProjectNode" />
               <item name="python-mega-course-Udemy" type="462c0819:PsiDirectoryNode" />
-              <item name="project 8 video processong openCV" type="462c0819:PsiDirectoryNode" />
+              <item name="project 9 bokeh visualization" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -163,18 +143,20 @@
       <workItem from="1550496349342" duration="1249000" />
       <workItem from="1550497795642" duration="27919000" />
       <workItem from="1550660297523" duration="5113000" />
-      <workItem from="1550983407935" duration="2655000" />
+      <workItem from="1550983407935" duration="12927000" />
+      <workItem from="1551064671770" duration="5459000" />
+      <workItem from="1551084718046" duration="2993000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39690000" />
+    <option name="totallyTimeSpent" value="58414000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="298" y="0" width="1244" height="672" extended-state="0" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.33614865" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2751678" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -239,40 +221,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../tutorials/Udemy - Taming Big Data with Apache Spark and Python - Hands On!0/my-spark-walkthrough/part2-Spark-basics-and-simple-examples/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="540">
-            <caret line="85" lean-forward="true" selection-start-line="85" selection-end-line="85" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../../tutorials/Udemy - Taming Big Data with Apache Spark and Python - Hands On!0/my-spark-walkthrough/part1-intro/ratings-counter.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
           <selected id="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/project 7 python for image and viedo processing/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="629">
-            <caret line="37" selection-start-line="37" selection-end-line="37" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../tutorials/[FreeTutorials.Us] Udemy - docker-mastery/my-docker-walkthrough/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="370">
-            <caret line="259" column="3" selection-start-line="259" selection-start-column="3" selection-end-line="259" selection-end-column="3" />
-          </first_editor>
-          <second_editor />
         </state>
       </provider>
     </entry>
@@ -281,6 +233,69 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="391">
             <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project 7 python for image and viedo processing/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="540">
+            <caret line="37" selection-start-line="37" selection-end-line="37" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../tutorials/Udemy - Taming Big Data with Apache Spark and Python - Hands On!0/2. Spark Basics and Simple Examples/9.1 word-count.py.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../tutorials/Udemy - Taming Big Data with Apache Spark and Python - Hands On!0/my-spark-walkthrough/part2-Spark-basics-and-simple-examples/word-count-better.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../tutorials/Udemy - Taming Big Data with Apache Spark and Python - Hands On!0/my-spark-walkthrough/part2-Spark-basics-and-simple-examples/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="492">
+            <caret line="107" lean-forward="true" selection-start-line="107" selection-end-line="107" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../tutorials/Udemy - Taming Big Data with Apache Spark and Python - Hands On!0/my-spark-walkthrough/part3-advanced-examples-of-spark-programs/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="622">
+            <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../tutorials/[FreeTutorials.Us] Udemy - docker-mastery/my-docker-walkthrough/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="543">
+            <caret line="320" selection-start-line="320" selection-end-line="320" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project 9 bokeh visualization/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="561">
+            <caret line="33" column="1" selection-start-line="33" selection-start-column="1" selection-end-line="33" selection-end-column="1" />
           </first_editor>
           <second_editor />
         </state>
