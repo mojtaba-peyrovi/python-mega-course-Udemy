@@ -31,4 +31,31 @@ instead of:
 ```
 p.figure(..., title='Earthquake', ....)
 ```
-    
+  
+- In order to have Bokeh run faster on the browser, we can download the css, and js CDN of bokeh and reference them locally so that it doesn't pull these files from the server each time the page loads.
+
+Bokeh can do this automatically, when we pass an argument in output_file() like this:
+```
+output_file("file_name", mode="relative")
+``` 
+by default mode is CDN. There are other modes such as absolute and inline.
+
+- we can also pass tools="" which removes all the toolbar when the graph runs in the browser.
+- also with logo=None we can remove bokeh logo from the chart.
+
+- we can pass the tools we want such as pan, resize, etc. as tool parameter passed in figure.
+```
+fogure(plot_width-500, plot_height=500, tools='pan, resize', logo=None)
+```
+
+#### Time Series:__ 
+For times series we use p.line instead of circle or other types.
+
+Then we load data by pandas and pass them into p.
+
+- In order to make the chart responsive, we can pass it to graph()
+```
+p = figure(..., sizing_mode="scale_both")
+```
+
+
