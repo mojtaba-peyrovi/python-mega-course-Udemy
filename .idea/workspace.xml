@@ -20,11 +20,11 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/project 9 bokeh visualization/README.md">
+        <entry file="file://$PROJECT_DIR$/project 10 send email by Flask and Virtualenv, Heroku/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="472">
-                <caret line="57" column="16" lean-forward="true" selection-start-line="57" selection-start-column="16" selection-end-line="57" selection-end-column="39" />
+              <first_editor relative-caret-position="323">
+                <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
               </first_editor>
               <second_editor />
             </state>
@@ -49,10 +49,16 @@
         <option value="$PROJECT_DIR$/project 8 video processong openCV/README.md" />
         <option value="$PROJECT_DIR$/../../tutorials/Udemy - Taming Big Data with Apache Spark and Python - Hands On!0/my-spark-walkthrough/part2-Spark-basics-and-simple-examples/word-count-better.py" />
         <option value="$PROJECT_DIR$/../../tutorials/Udemy - Taming Big Data with Apache Spark and Python - Hands On!0/my-spark-walkthrough/part2-Spark-basics-and-simple-examples/README.md" />
-        <option value="$PROJECT_DIR$/../../tutorials/Udemy - Taming Big Data with Apache Spark and Python - Hands On!0/my-spark-walkthrough/part3-advanced-examples-of-spark-programs/README.md" />
         <option value="$PROJECT_DIR$/../../tutorials/[FreeTutorials.Us] Udemy - docker-mastery/my-docker-walkthrough/README.md" />
         <option value="$PROJECT_DIR$/project 9 bokeh visualization/README.md" />
         <option value="$PROJECT_DIR$/project 9 bokeh visualization/sample_texas.py" />
+        <option value="$PROJECT_DIR$/../../tutorials/Udemy - Taming Big Data with Apache Spark and Python - Hands On!0/my-spark-walkthrough/part3-advanced-examples-of-spark-programs/most-popular-superhero.py" />
+        <option value="$PROJECT_DIR$/../../tutorials/Udemy - Taming Big Data with Apache Spark and Python - Hands On!0/my-spark-walkthrough/part3-advanced-examples-of-spark-programs/most-popular-hq-consumers.py" />
+        <option value="$PROJECT_DIR$/../../tutorials/Coursera-data-science-competition/week1/README.md" />
+        <option value="$PROJECT_DIR$/../../tutorials/Udemy - Taming Big Data with Apache Spark and Python - Hands On!0/my-spark-walkthrough/part3-advanced-examples-of-spark-programs/degrees-of-separation.py" />
+        <option value="$PROJECT_DIR$/../../tutorials/Udemy - Taming Big Data with Apache Spark and Python - Hands On!0/my-spark-walkthrough/part3-advanced-examples-of-spark-programs/README.md" />
+        <option value="$PROJECT_DIR$/../../tutorials/Udemy - Taming Big Data with Apache Spark and Python - Hands On!0/my-spark-walkthrough/part3-advanced-examples-of-spark-programs/movie-similarities.py" />
+        <option value="$PROJECT_DIR$/project 10 send email by Flask and Virtualenv, Heroku/README.md" />
       </list>
     </option>
   </component>
@@ -67,7 +73,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -78,17 +83,18 @@
             <path>
               <item name="python-mega-course-Udemy" type="b2602c69:ProjectViewProjectNode" />
               <item name="python-mega-course-Udemy" type="462c0819:PsiDirectoryNode" />
-              <item name="project 9 bokeh visualization" type="462c0819:PsiDirectoryNode" />
+              <item name="project 10 send email by Flask and Virtualenv, Heroku" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../tutorials/Udemy - Taming Big Data with Apache Spark and Python - Hands On!0/my-spark-walkthrough" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../tutorials/Coursera-data-science-competition" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
@@ -148,17 +154,18 @@
       <workItem from="1551064671770" duration="5459000" />
       <workItem from="1551084718046" duration="5422000" />
       <workItem from="1551155350915" duration="3107000" />
+      <workItem from="1551342295560" duration="23467000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="63950000" />
+    <option name="totallyTimeSpent" value="87417000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27919462" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28322148" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -172,7 +179,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.3286119" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -263,26 +270,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../tutorials/Udemy - Taming Big Data with Apache Spark and Python - Hands On!0/my-spark-walkthrough/part2-Spark-basics-and-simple-examples/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="492">
-            <caret line="107" lean-forward="true" selection-start-line="107" selection-end-line="107" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../tutorials/Udemy - Taming Big Data with Apache Spark and Python - Hands On!0/my-spark-walkthrough/part3-advanced-examples-of-spark-programs/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="622">
-            <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../../tutorials/[FreeTutorials.Us] Udemy - docker-mastery/my-docker-walkthrough/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -307,7 +294,85 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="472">
-            <caret line="57" column="16" lean-forward="true" selection-start-line="57" selection-start-column="16" selection-end-line="57" selection-end-column="39" />
+            <caret line="57" column="41" lean-forward="true" selection-start-line="57" selection-start-column="41" selection-end-line="57" selection-end-column="41" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../tutorials/Udemy - Taming Big Data with Apache Spark and Python - Hands On!0/my-spark-walkthrough/part3-advanced-examples-of-spark-programs/most-popular-hq-consumers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="48" lean-forward="true" selection-start-line="25" selection-start-column="48" selection-end-line="25" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../tutorials/Udemy - Taming Big Data with Apache Spark and Python - Hands On!0/my-spark-walkthrough/part3-advanced-examples-of-spark-programs/most-popular-superhero.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="39" lean-forward="true" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../tutorials/Udemy - Taming Big Data with Apache Spark and Python - Hands On!0/my-spark-walkthrough/part2-Spark-basics-and-simple-examples/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="523">
+            <caret line="107" selection-start-line="107" selection-end-line="107" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../tutorials/Coursera-data-science-competition/week1/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="554">
+            <caret line="108" selection-start-line="108" selection-end-line="108" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../tutorials/Udemy - Taming Big Data with Apache Spark and Python - Hands On!0/3. Advanced Examples of Spark Programs/7.1 degrees-of-separation.py.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2125">
+          <caret line="125" column="14" lean-forward="true" selection-end-line="128" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../tutorials/Udemy - Taming Big Data with Apache Spark and Python - Hands On!0/my-spark-walkthrough/part3-advanced-examples-of-spark-programs/degrees-of-separation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../tutorials/Udemy - Taming Big Data with Apache Spark and Python - Hands On!0/my-spark-walkthrough/part3-advanced-examples-of-spark-programs/movie-similarities.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="57" lean-forward="true" selection-start-line="57" selection-end-line="57" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../tutorials/Udemy - Taming Big Data with Apache Spark and Python - Hands On!0/my-spark-walkthrough/part3-advanced-examples-of-spark-programs/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="540">
+            <caret line="92" selection-start-line="92" selection-end-line="92" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project 10 send email by Flask and Virtualenv, Heroku/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="323">
+            <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
           </first_editor>
           <second_editor />
         </state>

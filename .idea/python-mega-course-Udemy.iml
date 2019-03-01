@@ -6,6 +6,7 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="my-docker-walkthrough" />
     <orderEntry type="module" module-name="my-spark-walkthrough" />
+    <orderEntry type="module" module-name="Coursera-data-science-competition" />
   </component>
   <component name="TemplatesService">
     <option name="TEMPLATE_FOLDERS">
