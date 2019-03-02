@@ -23,8 +23,8 @@
         <entry file="file://$PROJECT_DIR$/project 10 send email by Flask and Virtualenv, Heroku/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="323">
-                <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+              <first_editor relative-caret-position="622">
+                <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
               </first_editor>
               <second_editor />
             </state>
@@ -154,12 +154,12 @@
       <workItem from="1551064671770" duration="5459000" />
       <workItem from="1551084718046" duration="5422000" />
       <workItem from="1551155350915" duration="3107000" />
-      <workItem from="1551342295560" duration="23467000" />
+      <workItem from="1551342295560" duration="26412000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="87417000" />
+    <option name="totallyTimeSpent" value="90362000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -371,8 +371,8 @@
     <entry file="file://$PROJECT_DIR$/project 10 send email by Flask and Virtualenv, Heroku/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="323">
-            <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+          <first_editor relative-caret-position="622">
+            <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
           </first_editor>
           <second_editor />
         </state>
